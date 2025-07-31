@@ -3,7 +3,7 @@ Online Quiz System is a web-based application that allows students to attempt qu
 
 # Project Overview
 The Online Quiz System is a web application that allows:
--> Admins to manage users and quizzes.
+-> Admins to manage users and quizzes.<br>
 -> Teachers to create quizzes and view results.
 -> Students to view and attempt quizzes, and see their scores.
 
