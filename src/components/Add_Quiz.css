@@ -1,0 +1,45 @@
+
+
+
+
+.form-button-Add-Question {
+  display: inline-block;
+  background-color: #616161;
+  color: #f2f2f2;
+  font-weight: bold;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-left: 95px;
+  transition: 0.4s;
+}
+
+.form-button-Add-Question:hover {
+  background-color: #545353;
+}
+.form-button-Submit {
+  background-color: #007bff;
+  color: white;
+  font-weight: bold;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: 0.4s;
+}
+.form-button-Submit:hover {
+  background-color: #0056b3;
+}
+
+
+
+
+.message {
+  text-align: center;
+  font-weight: bold;
+  color: green;
+  margin-bottom: 15px;
+}

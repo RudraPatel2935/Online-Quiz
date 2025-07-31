@@ -1,0 +1,58 @@
+.institution-form-container {
+  max-width: 500px;
+  margin: 40px auto;
+  padding: 25px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  background-color: #f7f9fa;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.05);
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.institution-form-container h2 {
+  text-align: center;
+  margin-bottom: 25px;
+  color: #333;
+}
+
+.institution-form-container label {
+  display: block;
+  margin-top: 15px;
+  font-weight: 600;
+  color: #333;
+}
+
+.institution-form-container input,
+.institution-form-container textarea {
+  width: 100%;
+  padding: 10px;
+  margin-top: 6px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+.institution-form-container input:focus,
+.institution-form-container textarea:focus {
+  border-color: #007bff;
+  outline: none;
+}
+
+.institution-form-container button {
+  width: 100%;
+  background-color: #007bff;
+  color: #fff;
+  font-weight: 600;
+  padding: 12px;
+  margin-top: 25px;
+  border: none;
+  border-radius: 6px;
+  font-size: 17px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.institution-form-container button:hover {
+  background-color: #0056b3;
+}
